@@ -1,0 +1,21 @@
+#main-head {
+    height: calc(100vh - 54px);
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/61viSUPJTgL._SL1000_.jpg");
+    background-size: cover;
+}
+main {
+    margin-left: 924px;
+}
+
+.page-section {
+    padding: 6rem 0;
+}
+
+.section-heading {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.section-subheading {
+    margin-bottom: 4rem;
+}
